@@ -50,6 +50,10 @@ li {  display: inline-block;
 #btn-join:hover {background-color: #d49911;
 Transition:0.7s;}
 
+#text-margin {
+  margin-bottom: 30px;
+}
+
 .container {
   background-color: #030200;
   width: 700px;
